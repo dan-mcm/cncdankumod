@@ -1,0 +1,12 @@
+# hiding visual studio files
+.vs/*
+
+# hiding local build files
+
+REDALERT/Win32/*
+TIBERIANDAWN/Win32/*
+
+bin/*
+UpgradeLog.htm
+*.VC.db
+*.user
